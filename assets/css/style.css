@@ -119,14 +119,16 @@ text-align: center;
      }
      
      .snow .meet h2{
-       font-size: small;
+       font-size: large;
+       text-align: center;
        font-weight: 900;
        color: rgb(247, 241, 230);
      }
      
      .snow .meet p{
          font-weight: 500;
-         font-size: smaller;
+         font-size: small;
+         text-align: center;
      }
      
      .snow .meet button{
