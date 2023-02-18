@@ -1,0 +1,145 @@
+header{
+   background-image: url(/assets/image/business-office-computer-flatlay.jpg);
+   background-size: cover;
+   background-position: center center;
+   height: 100vh;
+}
+
+header .snow{
+    padding: 12rem;
+}
+
+.snow .meet{
+    /* border: 2px solid red;  */
+    width: 35vw;
+
+}
+
+.snow .meet h2{
+  font-weight: bold;
+  color: rgb(247, 241, 230);
+}
+
+.snow .meet p{
+    font-weight: 500;
+}
+
+.snow .meet button{
+    border-radius: 0rem;
+}
+
+#na .container a{
+    font-weight: bold;
+    
+}
+
+#na .container .collapse .navbar-nav .nav-item a{
+    color: white;
+    
+}
+
+#na .container .collapse .navbar-nav{
+    justify-content: space-evenly;
+    width: 40vw;
+    /* border: 2px solid red; */
+}
+
+#na .container .collapse .input-group input{
+    width: 5vw;
+}
+
+.de{
+    height: 25vh;
+    text-align: center;
+    padding: 2rem;
+    /* border: 2px solid red; */
+}
+
+#ano .container{
+    /* border: 2px solid red;  */
+}
+
+#ano .container .row .col-md-4 .hi{
+
+
+text-align: center;
+}
+
+#ano .container .row .col-md-4{
+    text-align: center;
+
+}
+
+#design .start{
+     background: rgb(230, 226, 226);
+    /* border: 2px solid red;  */
+}
+
+#na .container .navbar-toggler{
+    border: 0rem;
+    box-shadow: 0rem;
+} 
+
+#design .start .container .col-md-6 button{
+    border-radius: 0rem;
+}
+
+/* #design .start .container .col-md-6{
+    width: 70vh;
+    border: 2px red; 
+} */
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width:520px) {
+    /* header  */
+  
+    header{
+        background-image: url(/assets/image/business-office-computer-flatlay.jpg);
+        background-size: cover;
+        background-position: center center;
+        height: 60vh;
+
+     }
+     
+     header .snow{
+         padding: 10rem;
+     }
+     
+     .snow .meet{
+         /* border: 2px solid red;  */
+         width: 35vw;
+     
+     }
+     
+     .snow .meet h2{
+       font-size: small;
+       font-weight: 900;
+       color: rgb(247, 241, 230);
+     }
+     
+     .snow .meet p{
+         font-weight: 500;
+         font-size: smaller;
+     }
+     
+     .snow .meet button{
+         border-radius: 0rem;
+     }
+
+     .de{
+        height: 45vh;
+        text-align: center;
+        padding: 2rem;
+        /* border: 2px solid red; */
+    }
+    
+       
+      
+  }
