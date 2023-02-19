@@ -108,7 +108,7 @@ text-align: center;
 
      }
 
-     
+
      
      header .snow{
          padding: 4rem;
@@ -118,6 +118,7 @@ text-align: center;
      .snow .meet{
          /* border: 2px solid red;   */
          width: 35vw;
+         margin-left: 1.5rem;
      
      }
      
